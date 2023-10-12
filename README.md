@@ -5,7 +5,6 @@
 2. Tours
 
 - Fetch tours from API and show them on screen with toggable description. Remove from list / refresh list.
-- to do: rebuild with public API
 
 3. Reviews
 
