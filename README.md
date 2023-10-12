@@ -9,11 +9,11 @@
 
 3. Reviews
 
--
+- Switch between reviews or get a random one. Displayed in one element.
 
 4. Accordion
 
--
+- List of question with drop down details
 
 5. Menu
 
