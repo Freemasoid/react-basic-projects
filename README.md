@@ -16,7 +16,7 @@
 
 5. Menu
 
--
+- Menu of dishes (description, name, price, image) with toggleable categories.
 
 6. Tabs
 
