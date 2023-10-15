@@ -16,11 +16,11 @@
 
 5. Menu
 
-- Menu of dishes (description, name, price, image) with toggleable categories.
+- Menu of dishes (description, name, price, image) with clickable categories.
 
 6. Tabs
 
--
+- Fetch job data from an API and display it in the clickable tab
 
 7. Slider
 
