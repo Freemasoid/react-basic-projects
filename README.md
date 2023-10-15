@@ -24,7 +24,7 @@
 
 7. Slider
 
--
+- Fetch data from API and display it in slides
 
 8. Lorem Ipsum
 
