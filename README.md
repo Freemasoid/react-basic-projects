@@ -32,7 +32,7 @@
 
 9. Color Palette Generator
 
-- User can select a color and if it's a valid one an app will generate a color palette (shades) based on this color
+- User can input a color and if it's a valid one, app will generate a color palette (shades) based on this color. Palette colors can be copied to clipboard on click.
 
 10. Grocery Bud
 
