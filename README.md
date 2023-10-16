@@ -28,11 +28,11 @@
 
 8. Lorem Ipsum
 
--
+- Lorem Ipsum-like generator. Produces set of paragraphs, which it gets from the js file database, based on user specified quantity of paragraphs
 
-9. Color Generator
+9. Color Palette Generator
 
--
+- User can select a color and if it's a valid one an app will generate a color palette (shades) based on this color
 
 10. Grocery Bud
 
