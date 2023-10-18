@@ -36,11 +36,11 @@
 
 10. Grocery Bud
 
--
+- Shopping list: add/delete/check items
 
 11. Navbar
 
--
+- Simple navbar with dynamic display approach with usage of useRef; if new data is added to the data.jsx DB, navbar will adjust display height for the new component.
 
 12. Sidebar
 
