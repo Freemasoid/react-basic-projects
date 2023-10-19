@@ -44,12 +44,12 @@
 
 12. Sidebar
 
--
+- Sidebar + Modal menu
 
 13. Strapi Submenus
 
--
+- Strapi.io functionality - display element with links when mouse over links in navbar.
 
 14. Cart
 
--
+- Add/remove/clear cart (useReducer functionality)
